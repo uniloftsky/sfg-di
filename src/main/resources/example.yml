@@ -1,0 +1,30 @@
+#this is a comment
+
+name: John
+
+names:
+  - John
+  - Andy
+  - Kylie
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: Me
+
+truth: yes
+another_truth: true
+
+false: no #false, False
+
+string_val: "This is a string"
+
+include_new_lines: |
+  first line
+  second line
+  third line
+
+ignore_new_lines: >
+  first line
+  second line
